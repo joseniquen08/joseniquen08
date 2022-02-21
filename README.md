@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://https://raw.githubusercontent.com/joseniquen08/joseniquen08/main/name.svg" alt="José Ñiquen" />
+  <img src="https://raw.githubusercontent.com/joseniquen08/joseniquen08/main/name.svg" alt="José Ñiquen" />
 </h1>
 
 ### Welcome! 👋
