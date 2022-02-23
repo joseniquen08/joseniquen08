@@ -5,6 +5,8 @@
 
 ### Welcome! 👋
 
+![](https://github-readme-stats.vercel.app/api?username=joseniquen08&theme=blue-green)
+
 <!--
 **joseniquen08/joseniquen08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
