@@ -10,10 +10,8 @@
 </p>
 
 <p align="center"/>
-  <br>
-    <img alt="joseniquen08's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joseniquen08&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=050F2C&text_color=00AEFF&title_color=2DDE98&icon_color=FFFFFF"/>
-    <img alt="joseniquen08's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseniquen08&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=050F2C&title_color=2DDE98&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
-  </br>
+  <img alt="joseniquen08's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joseniquen08&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=050F2C&text_color=00AEFF&title_color=2DDE98&icon_color=FFFFFF" height="192px"/>
+  <img alt="joseniquen08's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseniquen08&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=050F2C&title_color=2DDE98&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
  <p/>
 
 <!--
